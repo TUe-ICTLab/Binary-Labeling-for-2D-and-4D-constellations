@@ -127,4 +127,4 @@ The numbers following the constellation have specific meanings in the tables bel
   |    ab4_256     |   9.780   |   11.709   |
   |    QAM4_256    |  10.156   | **10.161** |
 
->    In table 2, No constellation with a size larger than 256 was optimized, as this would be too time consuming.
+>    In table 2, no constellation with a size larger than 256 was optimized, as this would be too time consuming.
