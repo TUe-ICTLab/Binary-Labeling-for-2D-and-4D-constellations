@@ -1,7 +1,7 @@
 ## Table 1: The SNR(dB) at which these 2D constellations have an NMI (normalized MI) and NGMI (normalized GMI) of 0.8. 
 
   |      Constellation      |    SNR MI    |  SNR GMI   |                    Coordinates & Labeling                    | Reference | Comment |
-  | :---------------------: | :----------: | :--------: | :----------------------------------------------------------: | :-------: | :-----: |
+  | :---------------------: | :----------: | :--------: | :----------------------------------------------------------: | :-------: | :-------------------: |
   | ***2 bits/2D-symbol***  |              |            |                                                              |           |         |
   |    doublesimplex2_4     |    4.371     |   4.654    | [doublesimplex2_4](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates&labeling2D/doublesimplex2_4) |[Gilbert52](https://ieeexplore.ieee.org/document/6773017), [Cahn59](https://ieeexplore.ieee.org/document/1097537),[Pierce80](https://ieeexplore.ieee.org/document/1094757), [Ekanayake82](https://ieeexplore.ieee.org/document/1056534)|An equilateral triangle, or a 2d simplex.|
   |         tri2_4          |    4.980     |   5.791    | [tri2_4](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling2D/tri2_4) |[Thomas74](https://ieeexplore.ieee.org/document/1092165)|	An equilateral triangle with a central point.|
