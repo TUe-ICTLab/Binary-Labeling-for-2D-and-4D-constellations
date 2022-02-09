@@ -21,6 +21,6 @@ The target SNR is found by computing the ...
 The numbers following the constellation have specific meanings in the tables below. For example, in 'QAM2_4',the '2' represents  the dimensionality of the constellation while the '4' refers to  the amount of bits.
 
 
-Link 1
+Coordinates&Labeling2D https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/blob/main/2D%20Labelings%20Table.md
 
-Link 2
+Coordinates&Labeling4D 
