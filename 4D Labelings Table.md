@@ -1,7 +1,7 @@
 ## Table 2: The SNR(dB) at which these 4D constellations have an NMI or NGMI of 0.8
 
   |     Constellation      |  SNR MI   |  SNR GMI   |                    Coordinates & Labeling                    | Reference | Comment |
-  | :--------------------: | :-------: | :--------: | :----------------------------------------------------------: | :-------: | :----------------------------: |
+  | :--------------------: | :-------: | :--------: | :----------------------------------------------------------: | :-------: | :-------------------------------------: |
   | ***2 bit/4D-symbol***  |           |            |                                                              |           |         |
   |        ortho4_4        |   1.707   |   2.225    | [ortho4_4](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/ortho4_4) |[Viterbi61](https://ieeexplore.ieee.org/document/5008745)|An orthogonal packing [Viterbi61]. Becomes the 3-dimensional simplex if the mean is subtracted, i.e., if the first coordinate is deleted.|
   |         PPM4_4         |   1.707   |   2.225    | [PPM4_4](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/PPM4_4) |           |Pulse-position modulation, where all coordinates except one are zero. Geometrically equivalent to ortho4_4.|
