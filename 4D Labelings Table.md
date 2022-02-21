@@ -45,6 +45,6 @@
   |         4D-OS256         |   9.909   |   10.071   | [4D-OS256](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/4D-OS256) |[Chen21](https://arxiv.org/pdf/2112.12377.pdf)|     |
   |        QAM4_256        |  10.156   | **10.161** |                        Gray labeling                         |[Alvarado15](https://ieeexplore.ieee.org/document/7029599)|The Cartesian product of two 16-QAM or four 4-PAM packings. Also known as PM-16QAM.|
   | ***9 bits/4D-symbol*** | 
-  |         4D-OS512         |   11.066   |   11.255   | [4D-OS512](https://arxiv.org/pdf/2112.12377.pdf) |[Chen21](https://arxiv.org/pdf/2112.12377.pdf)|     |
+  |         4D-OS512         |   11.066   |   11.255   | [4D-OS512](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/4D-OS512) |[Chen21](https://arxiv.org/pdf/2112.12377.pdf)|     |
   | ***10 bits/4D-symbol*** | 
   |         4D-OS1024         |   12.291   |   12.502  | [4D-OS1024](https://arxiv.org/pdf/2112.12377.pdf) |[Chen21](https://arxiv.org/pdf/2112.12377.pdf)|     |
