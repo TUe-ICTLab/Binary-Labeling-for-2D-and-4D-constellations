@@ -75,5 +75,5 @@
   |        DSQ2_512         |    22.917    |   26.657   | [DSQ2_512](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling2D/DSQ2_512) |           |         |
   |       cross2_512        |  **22.800**  | **26.369** | [cross2_512](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling2D/cross2_512) |           |         |
   | ***10 bits/2D-symbol*** |              |            |                                                              |           |         |
-  |        QAM2_1024        |  **25.415**  | **25.488** |                        Gray labeling                         |           |         |
-   |         opt1024          |    xxx    |   Xxx   | [opt256](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling2D/G-GS-64) |  |  Geometrically Shaped Constellations for an AWGN channel. For a 1024 point constellation  is numerically optimised to GMI for the given SNR 20dB.      |
+  |        QAM2_1024        |  25.415  | 25.488 |                        Gray labeling                         |           |         |
+   |         opt1024          |    **25.013**    |   **25.043**   | [opt256](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling2D/G-GS-64) |  |  Geometrically Shaped Constellations for an AWGN channel. For a 1024 point constellation  is numerically optimised to GMI for the given SNR 20dB.      |
