@@ -1,4 +1,4 @@
-## Table 2: The required SNR(dB) at which these 4D constellations have an NMI or NGMI of 0.8
+## Table 2: The required SNR(dB) at which these 4D constellations have an NMI (normalized MI) and NGMI (normalized GMI)  of 0.8
 
   |     Constellation      |  SNR MI   |  SNR GMI   |                    Coordinates & Labeling                    | Reference | Comment |
   | :--------------------: | :-------: | :--------: | :----------------------------------------------------------: | :-------: | :---------------------------------------------------: |
