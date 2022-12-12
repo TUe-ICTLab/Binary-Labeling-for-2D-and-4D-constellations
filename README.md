@@ -8,6 +8,7 @@ The binary labeling of constellations is an important factor to the achievable i
 - To calculate both the MI and GMI the Gauss-Hermite approximation is used.
 - The algorithm used to determine a good labeling for the constellations is the binary switching algorithm (BSA) as described in this paper (https://ieeexplore.ieee.org/document/64657). The cost function used in the BSA is described in the publication (https://ieeexplore.ieee.org/document/6784555). 
 - The target SNR is found by computing the constellations have an NMI (normalized MI) and NGMI (normalized GMI) of 0.8.
+- SNR is defined as the signal power $E[||X||]^2$ over the total noise power $\sigma^2$ (N-dimensional noise power). 
 
 ### Notes
 - Most of the constellations for which the BSA was executed were taken from Erik Agrell's database https://codes.se/packings/
