@@ -17,9 +17,10 @@ The binary labeling of constellations is an important factor to the achievable i
 
 ### Research Results
 
-The numbers following the constellation have specific meanings in the tables. For example, in 'QAM2_4',the '2' represents  the dimensionality of the constellation while the '4' refers to  the amount of bits. The database is managed by Bin Chen (HFUT, China), Alex Alvarado (TUe, The Netherlands) and Zhiwei Liang (HFUT, China), if you are interested in adding your constellation formats in this database, please contact us (bin.chen@hfut.edu.cn, A.Alvarado@tue.nl). 
-
+The numbers following the constellation have specific meanings in the tables. For example, in 'QAM2_4',the '2' represents  the dimensionality of the constellation while the '4' refers to  the amount of bits. 
 
 [2D constellation&Labeling](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/blob/main/2D%20Labelings%20Table.md)
 
 [4D constellation&Labeling](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/blob/main/4D%20Labelings%20Table.md) 
+
+The database is managed by Bin Chen (HFUT, China), Alex Alvarado (TUe, The Netherlands) and Zhiwei Liang (HFUT, China), if you are interested in adding your constellation formats in this database, please contact us (bin.chen@hfut.edu.cn, A.Alvarado@tue.nl). 
