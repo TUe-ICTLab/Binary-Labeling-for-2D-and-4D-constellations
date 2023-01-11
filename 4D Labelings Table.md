@@ -60,9 +60,9 @@
   |        GS-AWGN-4D-1024   |  13.504   |   12.511    | [GS-AWGN-4D-1024](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling2D/GS-NL-2D-1024) |[Eric22](https://ieeexplore.ieee.org/document/9852813), [UCL_GS](https://doi.org/10.5522/04/20223963.v1)|Geometrically Shaped Constellations for the AWGN channel. For a 1024 point constellation  is numerically optimised to GMI for the given SNR 13dB.|
   | ***11 bits/4D-symbol*** | 
   |        GS-AWGN-4D-2048   |  14.712   |   13.694    | [GS-AWGN-4D-2048](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling2D/GS-NL-2D-2048) |[Eric22](https://ieeexplore.ieee.org/document/9852813), [UCL_GS](https://doi.org/10.5522/04/20223963.v1)|Geometrically Shaped Constellations for the AWGN channel. For a 2048 point constellation  is numerically optimised to GMI for the given SNR 14dB.|
-    | ***12 bits/4D-symbol*** | 
+  | ***12 bits/4D-symbol*** | 
   |        GS-AWGN-4D-4096   |  15.913   |   14.869    | [GS-AWGN-4D-4096](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling2D/GS-NL-2D-4096) |[Eric22](https://ieeexplore.ieee.org/document/9852813), [UCL_GS](https://doi.org/10.5522/04/20223963.v1)|Geometrically Shaped Constellations for the AWGN channel. For a 4096 point constellation  is numerically optimised to GMI for the given SNR 15dB.|
-    | ***13 bits/4D-symbol*** | 
+  | ***13 bits/4D-symbol*** | 
   |        GS-AWGN-4D-8192   |  xx   |   16.169    | [GS-AWGN-4D-8192](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling2D/GS-NL-2D-8192) |[Eric22](https://ieeexplore.ieee.org/document/9852813), [UCL_GS](https://doi.org/10.5522/04/20223963.v1)|Geometrically Shaped Constellations for the AWGN channel. For a 8192 point constellation  is numerically optimised to GMI for the given SNR 17dB.|
-    | ***14 bits/4D-symbol*** | 
+  | ***14 bits/4D-symbol*** | 
   |        GS-AWGN-4D-16384   |  xx   |   17.358    | [GS-AWGN-4D-16384](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling2D/GS-NL-2D-16384) |[Eric22](https://ieeexplore.ieee.org/document/9852813), [UCL_GS](https://doi.org/10.5522/04/20223963.v1)|Geometrically Shaped Constellations for the AWGN channel. For a 16384 point constellation  is numerically optimised to GMI for the given SNR 18dB.|
