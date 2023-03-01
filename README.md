@@ -15,6 +15,9 @@ The binary labeling of constellations is an important factor to the achievable i
 - Some of the comments in the last column of the tables are taken from Erik Agrell's database https://codes.se/packings/
 - The binary labelings reported might not be optimal. If you know of a better labeling (or can find a better labeling), please let us know so we update the table.
 
+### Image
+![image](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/image)
+
 ### Research Results
 
 The numbers following the constellation have specific meanings in the tables. For example, in 'QAM2_4',the '2' represents  the dimensionality of the constellation while the '4' refers to  the amount of bits. 
