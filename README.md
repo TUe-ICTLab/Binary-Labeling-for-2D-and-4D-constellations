@@ -16,7 +16,7 @@ The binary labeling of constellations is an important factor to the achievable i
 - The binary labelings reported might not be optimal. If you know of a better labeling (or can find a better labeling), please let us know so we update the table.
 
 ### Image
-![image](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/image)
+![image](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/blob/main/image/2DGS_VS_4DGS.png)
 
 ### Research Results
 
