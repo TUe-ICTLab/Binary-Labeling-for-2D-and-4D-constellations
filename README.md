@@ -16,7 +16,7 @@ The binary labeling of constellations is an important factor to the achievable i
 - The binary labelings reported might not be optimal. If you know of a better labeling (or can find a better labeling), please let us know so we update the table.
 
 ### Image
-When the NMI (normalized MI) of constellations and Shannon capacity is 0.8, the gap of required SNR as shown in this figure. 
+When the NMI (normalized MI) of constellations and Shannon capacity is 0.8, the gap of required SNR as shown in this figure, which suggests that high dimensional modulation scheme can approximate Shannon limit better.
 ![image](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/blob/main/image/2DGS_VS_4DGS.png)
 
 ### Research Results
