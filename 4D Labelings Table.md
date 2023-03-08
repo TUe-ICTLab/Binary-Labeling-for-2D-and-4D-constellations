@@ -62,7 +62,7 @@
   |         4D-OS1024         |   12.291   |   **12.502**  | [4D-OS1024](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/4D-OS1024) |[Chen22](https://ieeexplore.ieee.org/document/9748343), [chen_JLT23](https://ieeexplore.ieee.org/document/9875974)|     |
   |        GS-AWGN-4D-1024   |  **12.277**  |   12.511    | [GS-AWGN-4D-1024](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/GS-AWGN-4D-1024) |[Eric22](https://ieeexplore.ieee.org/document/9852813), [UCL_GS](https://doi.org/10.5522/04/20223963.v1)|Geometrically Shaped Constellations for the AWGN channel. For a 1024 point constellation  is numerically optimised to GMI for the given SNR 13dB.|
   |        PM-32QAM   |  12.686   |   13.091    | Gray labeling |  |  |
-  |     Hurwitz4_64   |  12.454   |   15.736    |     |  |  |
+  |     Hurwitz4_1024   |  12.454   |   15.736    | [Hurwitz4_1024](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/Hurwitz4_1024)|  |  |
   | ***11 bits/4D-symbol*** | 
   |        GS-AWGN-4D-2048   |  13.504   |   13.694    | [GS-AWGN-4D-2048](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/GS-AWGN-4D-2048) |[Eric22](https://ieeexplore.ieee.org/document/9852813), [UCL_GS](https://doi.org/10.5522/04/20223963.v1)|Geometrically Shaped Constellations for the AWGN channel. For a 2048 point constellation  is numerically optimised to GMI for the given SNR 14dB.|
   | ***12 bits/4D-symbol*** | 
