@@ -68,7 +68,7 @@
   | ***12 bits/4D-symbol*** | 
   |        GS-AWGN-4D-4096   |  **14.712**   |   **14.869**    | [GS-AWGN-4D-4096](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/GS-AWGN-4D-4096) |[Eric22](https://ieeexplore.ieee.org/document/9852813), [UCL_GS](https://doi.org/10.5522/04/20223963.v1)|Geometrically Shaped Constellations for the AWGN channel. For a 4096 point constellation  is numerically optimised to GMI for the given SNR 15dB.|
   |        PM-64QAM   |  15.425   |   15.433    | Gray labeling |  |  |
-  |     Hurwitz4_4096   |  xx   |   xx    | [Hurwitz4_4096](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/Hurwitz4_4096)|  |  |
+  |     Hurwitz4_4096 |  15.018   |   18.857    | [Hurwitz4_4096](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/Hurwitz4_4096)|  |  |
   | ***13 bits/4D-symbol*** | 
   |        GS-AWGN-4D-8192   |  15.913   |   16.169    | [GS-AWGN-4D-8192](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/tree/main/coordinates%26labeling4D/GS-AWGN-4D-8192) |[Eric22](https://ieeexplore.ieee.org/document/9852813), [UCL_GS](https://doi.org/10.5522/04/20223963.v1)|Geometrically Shaped Constellations for the AWGN channel. For a 8192 point constellation  is numerically optimised to GMI for the given SNR 17dB.|
   | ***14 bits/4D-symbol*** | 
