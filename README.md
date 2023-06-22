@@ -28,3 +28,5 @@ The numbers following the constellation have specific meanings in the tables. Fo
 [4D constellation&Labeling](https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations/blob/main/4D%20Labelings%20Table.md) 
 
 The database is managed by Bin Chen (HFUT, China), Alex Alvarado (TUe, The Netherlands) and Zhiwei Liang (HFUT, China), if you are interested in adding your constellation formats in this database, please contact us (bin.chen@hfut.edu.cn, A.Alvarado@tue.nl). 
+
+Please cite the database as  Bin Chen, Zhiwei Liang and Alex Alvarado, “Binary Labeling for 2D and 4D constellations”, https://github.com/TUe-ICTLab/Binary-Labeling-for-2D-and-4D-constellations
